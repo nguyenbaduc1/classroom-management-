@@ -2,7 +2,8 @@
 
 👤 Thông Tin Cá Nhân
 
-Họ và tên: Nguyễn Bá Đức
+Họ và tên: 
+Nguyễn Bá Đức
 
 Mã sinh viên: 23010765
 
