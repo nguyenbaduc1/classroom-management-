@@ -7,7 +7,7 @@
 * **Mã sinh viên**: 23010765.  
 * **Họ và tên**: Bùi Việt Hùng.  
 * **Mã sinh viên**: 23010734.  
-* **Lớp**: Thược hành - 2.   
+* **Lớp**: Thưc hành - 2.   
 * **Môn học**: Thiết kế web nâng cao-1-1-25.  
 
 ## 🎯 Mục đích nghiên cứu
